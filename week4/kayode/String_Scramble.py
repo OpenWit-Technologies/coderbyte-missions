@@ -12,4 +12,5 @@ def StringScramble(str1,str2):
   return "true"
 
 # keep this function call here 
-print(StringScramble("girl and boy", "boyagirl"))
+print(StringScramble("cdore", "coder"))
+print(StringScramble("h3llko", "hello"))
