@@ -1,6 +1,6 @@
 function FirstFactorial(num) { 
 
-  // code goes here  
+   
   if (num > 0 && num < 18) {
 			return num * FirstFactorial(num - 1);
 	} else {
